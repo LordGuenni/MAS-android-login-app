@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ViewsActivity!</string>
+    <string name="app_name">Views</string>
+
+    <string-array name="options">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+    </string-array>
+
+    <string name="selection_query">Wählen Sie eine Option aus</string>
+    <string-array name="todos">
+        <item>Todo 1</item>
+        <item>Todo 2</item>
+        <item>Todo 3</item>
+    </string-array>
+    <string name="password_hint">Enter your password</string>
+    <string name="wrong_password">Falsches Passwort</string>
+</resources>
