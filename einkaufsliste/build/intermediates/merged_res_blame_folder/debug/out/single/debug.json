@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/drawable_roundedrectangle.xml.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/drawable/roundedrectangle.xml"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/drawable_rectangle.xml.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/drawable/rectangle.xml"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/menu_contextmenu_menu.xml.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/menu/contextmenu_menu.xml"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/drawable_oval.xml.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/drawable/oval.xml"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/drawable-mdpi_star_yellow.png.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/drawable-mdpi/star_yellow.png"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/layout_list.xml.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/layout/list.xml"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/layout_login.xml.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/layout/login.xml"
+    },
+    {
+        "merged": "de.thb.fbi.msr.maus.einkaufsliste-merged_res-20:/drawable-mdpi_star_grey.png.flat",
+        "source": "de.thb.fbi.msr.maus.einkaufsliste-main-22:/drawable-mdpi/star_grey.png"
+    }
+]

@@ -29,7 +29,6 @@ public class LoginWidgetActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login);
-
         email = findViewById(R.id.username);
         password = findViewById(R.id.password);
         login = findViewById(R.id.login);
